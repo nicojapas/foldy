@@ -112,5 +112,6 @@ venv.bak/
 /logs/*.json
 
 # Logs
-logs/
+logs/*
+!logs/.gitkeep
 *.log 
